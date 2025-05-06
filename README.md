@@ -1,1 +1,1 @@
-# GaussianBosonicMPOs
+# GaussianBosonicMPOs.jl
