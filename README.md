@@ -1,3 +1,3 @@
 # GaussianBosonicMPOs.jl
 
-Project is not underway anymore, sadly.
+Project is not underway anymore, quite sadly.
